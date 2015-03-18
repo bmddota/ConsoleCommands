@@ -1,0 +1,8 @@
+"CustomEvents"
+{
+    "console_command"
+    {
+        "pid"              "short"
+        "command"          "string"
+    }
+}
